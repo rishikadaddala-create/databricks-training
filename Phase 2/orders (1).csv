@@ -1,0 +1,16 @@
+order_id,customer_id,product_id,order_date,quantity,unit_price,discount,payment_mode,status
+1001,1,P201,2026-01-05,2,250,10,UPI,Delivered
+1002,2,P203,2026-01-06,1,1200,0,Credit Card,Delivered
+1003,3,P202,2026-01-06,3,450,25,Debit Card,Shipped
+1004,4,P204,2026-01-07,1,800,50,Cash,Cancelled
+1005,1,P205,2026-01-08,2,350,20,UPI,Delivered
+1006,5,P201,2026-01-08,1,250,0,Credit Card,Delivered
+1007,6,P206,2026-01-09,4,150,15,UPI,Delivered
+1008,7,P207,2026-01-09,2,500,30,Debit Card,Shipped
+1009,8,P208,2026-01-10,1,900,0,Cash,Delivered
+1010,2,P209,2026-01-10,2,300,10,UPI,Delivered
+1011,9,P210,2026-01-11,1,650,20,Credit Card,Delivered
+1012,10,P211,2026-01-11,5,120,0,UPI,Delivered
+1013,3,P212,2026-01-12,2,400,15,Debit Card,Delivered
+1014,4,P213,2026-01-12,3,275,25,Credit Card,Returned
+1015,5,P214,2026-01-13,1,1500,100,UPI,Delivered
